@@ -16,7 +16,6 @@ A simple Family Tree application implemented in Go. This application uses basic 
 ---
 
 ## Project Structure
-```
 
 FamilyTree/
 ├── cmd/
@@ -29,8 +28,7 @@ FamilyTree/
 │ └── traversal/
 │ └── traversal.go (_ Traversal algorithms (DFS, BFS) _)
 └── go.mod (_ Go module file \_)
-
-````
+```
 
 ## Installation
 
@@ -39,6 +37,8 @@ FamilyTree/
    ```bash
    git clone <repository-url>
    cd FamilyTree
+   ```
+
 ````
 
 2. **Install Go**: Ensure you have Go installed on your system. If not, download it from [golang.org](https://golang.org/dl/).
@@ -106,3 +106,4 @@ For inquiries, please contact: [Your Name](mailto:your.email@example.com)
 
 Feel free to adjust any details, such as the repository URL or contact information. If you need anything else, just let me know!
 ```
+````
