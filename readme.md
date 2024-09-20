@@ -18,9 +18,9 @@ A simple Family Tree application implemented in Go. This application uses basic 
 ## Project Structure
 ```
 
-family*tree/
+FamilyTree/
 ├── cmd/
-│ └── main.go (* Entry point of the application _)
+│ └── main.go (\* Entry point of the application _)
 ├── internal/
 │ ├── model/
 │ │ └── person.go (_ Person model representing a family member _)
@@ -31,8 +31,6 @@ family*tree/
 └── go.mod (_ Go module file \_)
 
 ````
-
----
 
 ## Installation
 
