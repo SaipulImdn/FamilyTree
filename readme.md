@@ -20,17 +20,17 @@ A simple Family Tree application implemented in Go. This application uses basic 
 ## Project Structure
 ```
 
-FamilyTree/
+family_tree/
 ├── cmd/
-│ └── main.go # Entry point of the application
+│ └── main.go (_ Entry point of the application _)
 ├── internal/
 │ ├── model/
-│ │ └── person.go # Person model representing a family member
+│ │ └── person.go (_ Person model representing a family member _)
 │ ├── service/
-│ │ └── family_tree.go # Family tree service for managing members
+│ │ └── family_tree.go (_ Family tree service for managing members _)
 │ └── traversal/
-│ └── traversal.go # Traversal algorithms (DFS, BFS)
-└── go.mod # Go module file
+│ └── traversal.go (_ Traversal algorithms (DFS, BFS) _)
+└── go.mod (_ Go module file _)
 
 ````
 
